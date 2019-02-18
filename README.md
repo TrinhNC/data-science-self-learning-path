@@ -6,4 +6,5 @@ Sources:
 # Start
 - Intro to Programing:
   + [Learn to Program: The Fundamentals (LPT1)](https://www.coursera.org/learn/learn-to-program?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-qSTAXt0dei.W4C0iD9fEUg&siteID=SAyYsTvLiGQ-qSTAXt0dei.W4C0iD9fEUg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+  Basic Python. Suitable for newbie or people who have little experience with Python (like me).
   + [Crafting Quality Code (LPT2)](https://www.coursera.org/learn/program-code?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-r7k.081Mxf4dNjCQDKd9rQ&siteID=SAyYsTvLiGQ-r7k.081Mxf4dNjCQDKd9rQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
