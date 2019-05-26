@@ -13,4 +13,5 @@ Sources:
   + [Foundations of Data Analysis - Part 1, Edx](https://courses.edx.org/courses/course-v1:UTAustinX+UT.7.11x+2T2017/course/) (ongoing)
   
 - Dive in:
-  + Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai/) (ongoing)
+  + Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai/) (05.2019 not finish, wait for next course in Sept.)
+  + Practical Data Scienceh (CMU) [http://www.datasciencecourse.org/lectures/] (on going)
