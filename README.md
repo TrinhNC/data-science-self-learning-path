@@ -11,7 +11,7 @@ Sources:
 
 - Statistic:
   + [Foundations of Data Analysis - Part 1, Edx](https://courses.edx.org/courses/course-v1:UTAustinX+UT.7.11x+2T2017/course/) (ongoing)
-  + [Books: Elements of Statistical Learning]  (https://web.stanford.edu/~hastie/Papers/ESLII.pdf) and [course videos] (https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about). (25.06 start)
+  + [Books: Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) and [course videos(https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about). (25.06 start)
   
 - Dive in:
   + Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai/) (05.2019 not finish, wait for next course in Sept.)
